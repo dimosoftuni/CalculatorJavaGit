@@ -2,7 +2,7 @@ public class Calculator {
 
     // Addition
     public int add(int a, int b, int c, int d, int e) {
-        // return the sum of a, b, c, d and e
+        // return the sum of a, b, c, d, e and f
         return a + b + c + d + e;
     }
 
