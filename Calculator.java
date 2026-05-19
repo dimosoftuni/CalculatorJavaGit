@@ -2,6 +2,7 @@ public class Calculator {
 
     // Addition
     public int add(int a, int b, int c, int d) {
+        // return the sum of a, b, c, and d
         return a + b + c + d;
     }
 
