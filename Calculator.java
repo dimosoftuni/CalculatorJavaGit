@@ -1,9 +1,9 @@
 public class Calculator {
 
     // Addition
-    public int add(int a, int b, int c, int d, int e) {
+    public int add(int a, int b, int c, int d, int e, int f) {
         // return the sum of a, b, c, d, e and f
-        return a + b + c + d + e;
+        return a + b + c + d + e + f;
     }
 
     // Subtraction
